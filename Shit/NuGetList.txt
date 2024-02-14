@@ -1,0 +1,5 @@
+Extended.Wpf.Toolkit //providing datetime picker
+Newtonsoft.Json //parsing json services string
+SkiaSharp //plotting qrcode
+
+barcodestandard - generating barcode
